@@ -1,0 +1,29 @@
+body {
+    font-family: Elephant, sans-serif;
+    text-align: left;
+    background-color: rgb(49, 142, 188);
+  }
+  .button-ovale {
+      background-color: #ffffff;
+      /* Fond blanc */
+      color: #007bff;
+      /* Police bleue */
+      border: 2px solid #007bff;
+      /* Bordure bleue */
+      border-radius: 20px;
+      /* Bord arrondi */
+      padding: 10px 20px;
+      /* Espacement interne */
+      cursor: pointer;
+      /* Curseur pointer */
+      font-size: 14px;
+      /* Taille de police */
+  }
+#tweetForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #e1e8ed;
+    border-radius: 5px;
+    resize: none;
+}

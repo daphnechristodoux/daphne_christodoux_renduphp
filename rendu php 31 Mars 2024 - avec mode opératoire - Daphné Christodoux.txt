@@ -1,0 +1,7 @@
+Repository Github (public) : https://github.com/daphnechristodoux/daphne_christodoux_renduphp.git
+
+Mode opératoire : http://localhost/Minitwitter.php?pseudo=daphne (ou autre nom)
+
+On peut s'inscrire, tweeter, afficher tous les tweets, supprimer tous ses tweets
+
+
